@@ -1,0 +1,7 @@
+{
+  "type": "data",
+  "nodes": [
+    { "type": "data", "data": [null], "uses": { "url": 1 } },
+    { "type": "skip" }
+  ]
+}

@@ -1,0 +1,15 @@
+.icon-wrapper.svelte-xmkv7t.svelte-xmkv7t {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+@media (hover: hover) {
+  .group.svelte-xmkv7t:hover .icon-wrapper.svelte-xmkv7t {
+    transform: translate(100%);
+  }
+  .group.svelte-xmkv7t:hover .background-overlay.svelte-xmkv7t {
+    transform: translate(0);
+  }
+}

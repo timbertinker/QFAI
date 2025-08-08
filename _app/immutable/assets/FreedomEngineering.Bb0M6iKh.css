@@ -1,0 +1,8 @@
+section.svelte-vgtkqk {
+  min-height: max(calc(100vh - var(--header-height)), 500px);
+}
+@supports (height: 100svh) {
+  section.svelte-vgtkqk {
+    min-height: max(calc(100svh - var(--header-height)), 500px);
+  }
+}
