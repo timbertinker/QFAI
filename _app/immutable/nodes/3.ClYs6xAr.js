@@ -634,7 +634,7 @@ function Jf(i) {
     rh = "Docs",
     cl,
     ot,
-    sh = "Latest update: 06 october 2024",
+    sh = "Latest update: 06 August 2025",
     hl,
     _t,
     ue,
